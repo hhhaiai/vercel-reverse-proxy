@@ -6,6 +6,7 @@
 ## 部署
 [![Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/gaboolic/vercel-reverse-proxy)
 
+[![hhhaiai_Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/hhhaiai/vercel-reverse-proxy)
 
 ## 使用方法
 1 部署。部署有两种方法，一是直接点击上方按钮一键部署，二是可以先fork本项目，再登录[vercel](https://vercel.com/)网站新建
